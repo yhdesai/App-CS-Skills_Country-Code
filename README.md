@@ -1,5 +1,5 @@
-#Applied CS Skills
-##Unit 1 Lesson 2
+# Applied CS Skills
+## Unit 1 Lesson 2
 
 As an example activity using HashMaps, create a program (not necessarily an Android app - command-line is fine) that will take in a three-letter country code (see ISO-3166) and will return the full name of the country to which it belongs. For example:
 
