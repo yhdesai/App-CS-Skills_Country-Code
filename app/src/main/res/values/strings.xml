@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Country Code</string>
+    <string name="entry_country_code">Entry Country Code</string>
+    <string name="submit">Submit</string>
+    <string name="the_country_is">The Country is</string>
+</resources>
